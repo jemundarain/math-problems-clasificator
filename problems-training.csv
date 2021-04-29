@@ -1,0 +1,89 @@
+SN,Enunciado,Category
+1,Hallar todas las formas de expresar $2003$ como la suma de los cuadrados de dos números enteros.,1
+2,En cada casilla de un tablero $m\times n$ se encuentra un número real. Se permite cambiar todos los números de una fila o de una columna de signo tantas veces como queramos. Demostrar que puede conseguirse que las sumas de los elementos cada fila y cada columna sean no negativas independientemente de la configuración inicial.,1
+3,"Sea  $a_1,a_2,\ldots$ una progresión aritmética no constante de números reales. Supongamos que existen enteros primos entre sí $p,q\gt 1$ para los que $a_1^2$, $a_{p+1}^2$ y $a_{q+1}^2$ son también elementos de la misma sucesión. Demostrar que todos los términos de la sucesión son enteros.",1
+4,"Sean $p$ y $q$ números enteros tales que
+\[1-\frac{1}{2}+\frac{1}{3}-\frac{1}{4}+\ldots-\frac{1}{1318}+\frac{1}{1319}=\frac{p}{q}.\]
+Demostrar que $p$ es divisible entre $1979$.",1
+5,"Demostrar que el siguiente número entero es compuesto:
+\[\frac{5^{125}-1}{5^{25}-1}.\]",1
+6,"Si los números del $11111$ al $99999$ se colocan en algún orden formando un número de $444445$ cifras, demostrar que dicho número no es una potencia de $2$.",1
+7,"Dado un número natural $n$, denotaremos por $s(n)$ a la suma de los dígitos de $n$ (por ejemplo, tenemos que $s(436)=4+3+6=13$). Hallar todas las soluciones de la ecuación
+\[n+s(n)+s(s(n))=2018.\]",1
+8,"Sean $p$ un número primo impar y $a$ y $b$ enteros positivos. Si el exponente de $p$ en $a-1$ es $\alpha\geq 1$ y el exponente de $p$ en $b$ es $\beta\geq 0$, demostrar que el exponente de $p$ en $a^b-1$ es $\alpha+\beta$.
+
+(Cuando decimos que $e$ es el exponente de $p$ en un número $n$, queremos decir que es el exponente en su factorización como producto de números primos, es decir, que $p^e$ divide a $n$ pero $p^{e+1}$ no divide a $n$.)",1
+9,"Determinar todos los números enteros positivos $p$ y $n$ tales que $p$ es primo y 
+\[8p+120=1+2+\ldots+n.\]",1
+10,"Probar que, para todo número racional positivo $r$, existen enteros positivos $a,b,c,d$ tales que
+\[r=\frac{a^3+b^3}{c^3+d^3}.\]",1
+11,"Un entero positivo se llama monótono si sus dígitos en base decimal de izquierda a derecha forma una sucesión no decreciente. Demostrar que, para cada entero positivo $n$ existe un número monótono de $n$ dígitos que es cuadrado perfecto.",1
+12,"Dado un entero $n\geq 2$, demostrar que existe un conjunto $S$ de $n$ números enteros tales que $(a-b)^2$ divide a $ab$ para cualesquiera $a,b\in S$.",1
+13,"Sean $a,p,n\in\mathbb{N}$ enteros positivos con $p$ primo. Demostrar que si $2^p+3^p=a^n$, entonces $n=1$.",1
+14,"Probar que, para cada $n\in\mathbb{N}$, existe un número entero $N$ que puede ser expresado como la suma de dos cuadrados y que, además, cumple que $n\leq N\leq n+2\sqrt{2}\sqrt[4]{n}$.",1
+15,"Decimos que un número entero positivo es un número ondulante si sus dígitos en base 10 son alternativamente cero y distinto de cero, siendo el dígito de las unidades distinto de cero. Determinar todos los enteros positivos que no dividen a ningún número ondulante.",1
+16,"Probar que entre $39$ números naturales consecutivos, siempre existe uno tal que la suma de sus cifras es múltiplo de $11$.",1
+17,"Dados dos números naturales $a,b\in\mathbb{N}$, ¿pueden ser $a^2+b$ y $b^2+a$ ambos cuadrados perfectos?",1
+18,Demostrar que los binomios $25x+31y$ y $3x+7y$ son múltiplos de 41 para los mismos valores enteros de $x$ e $y$.,1
+19,"Hallar todos los enteros positivos $n$ tales que 
+\[n=s+u^2{,}\]
+donde $s$ es la suma de las cifras de $n$ y $u$ su cifra de las unidades. ",1
+20,"Encontrar todas las soluciones naturales de la ecuación
+\[\frac{1}{m}+\frac{1}{n}+\frac{1}{mn^2}=\frac{3}{4}{.}\]
+",1
+21,"Dado un número entero positivo, consideremos la operación consistente en restarle su mayor divisor propio. Partiendo del número $19^{19}$ y aplicando reiteradamente esta operación se obtiene el número 1. Determinar cuántas veces se ha aplicado la operación.",1
+22,"Dados los números racionales $r$, $q$ y $n$ tales que
+\[\frac{1}{r+qn}+\frac{1}{q+rn}=\frac{1}{r+q}{,}\]
+demostrar que $\sqrt{\frac{n-3}{n+1}}$ es un número racional.",1
+23,"Sea $N$ un entero positivo tal que existen exactamente $2005$ pares ordenados $(x,y)$ de números enteros positivos que satisfacen la ecuación
+\[\frac{1}{x}+\frac{1}{y}=\frac{1}{N}{.}\]
+Demostrar que $N$ es un cuadrado perfecto.",1
+24,"Hallar todas las ternas de números enteros $(x,y,z)$ tales que 
+$$\frac{1}{x^2}+\frac{1}{y^2}=z.$$",1
+25,"Determinar todos los pares de enteros positivos $(a,b)$ para los cuales
+\[\frac{a^2b+b}{ab^2+9}\]
+es un número entero.
+",1
+26,"Sean $a$ y $b$ enteros. Demostrar que la ecuación
+\[(x-a)(x-b)(x-3)+1=0\]
+admite a lo sumo una solución entera.",1
+27,¿Existe alguna potencia de $2$ tal que al escribirla en el sistema decimal tenga todos sus dígitos distintos de cero y sea posible reordenar los mismos para formar con ellos otra potencia de $2$?,1
+28,"Encontrar el mayor entero $N$ que cumple las siguientes condiciones:
+
+$E(\frac{N}{3})$ es un número de tres cifras iguales,
+$E(\frac{N}{3})=1+2+\ldots+n$, para algún número natural $n\in\mathbb{N}$,
+
+donde $E(x)$ denota la parte entera de $x$.",1
+29,"Sea $a$ un entero positivo impar mayor que $17$ tal que $3a-2$ es un cuadrado perfecto. Demostrar que existen enteros positivos distintos $b$ y $c$ tales que $a+b$, $b+c$, $a+c$ y $a+b+c$ son cuatro cuadrados perfectos.",1
+30,Hallar todos los números naturales $n$ tales que $2^n+12^n+2011^n$ es un cuadrado perfecto.,1
+31,"Hallar todos los números enteros $n$ tales que
+$$n^4-4n^3+22n^2-36n+18$$
+es un cuadrado perfecto.",1
+32,"Sean $a,b,c,d$ números naturales tales que $ad=b^2+bc+c^2$. Demostrar que
+$$a^2+b^2+c^2+d^2$$
+es un número compuesto.",1
+33,Hallar todos los polinomios de coeficientes enteros $P(x)$ con la propiedad de que $P(n)$ divide a $2^n-1$ para todo número natural  $n$.,1
+34,Determinar todos los números naturales $m$ tales que $m2^{m-1}+1$ es un cuadrado perfecto.,1
+35,"Descomponer en factores primos el número
+\[N=1995\cdot 2007\cdot 2013+320.\]",1
+36,"Sean $a,b,c,d,p,q$ números naturales tales que $ad-bc=1$ y
+\[\frac{a}{b}\gt\frac{p}{q}\gt\frac{c}{d}{.}\]
+Demostrar que
+
+$q\geq b+d$.
+Si $q=b+d$, entonces $p=a+c$.
+",1
+37,Determinar razonadamente si el número $\sqrt{3n^2+2n+2}$ es irracional para todo entero no negativo $n$.,1
+38,"Sean $a$, $b$ y $n$ enteros positivos tales que $ab-1=n^2$. Demostrar que
+$$|a-b|\geq\sqrt{4n-3}.$$
+Indicar justificadamente cuándo se alcanza la igualdad.",1
+39,"Demostrar que si $4^n+2^n+1$ es primo, entonces $n$ es una potencia de $3$.",1
+40,"Demuestra que, para cualesquiera enteros no negativos $m$ y $n$, el número
+\[\frac{(2m)!(2n)!}{m!\,n!(m+n)!}\]
+es entero.",1
+41,"Demostrar que si $n$ es un número impar, entonces $2^n+3^n$ no es un cuadrado perfecto. ",1
+42,"Sea $P(x,y)=2x^2-6xy+5y^2$. Diremos que $a$ es un valor de $P$ si existen números enteros $b$ y $c$ tales que $a=P(b,c)$.
+
+Determinar cuántos elementos de $\{1,2,...,100\}$ son valores de $P$.
+Probar que el producto de valores de $P$ es un valor de $P$.
+",1
